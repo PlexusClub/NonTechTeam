@@ -1,0 +1,72 @@
+{
+  "team": [
+    {
+      "name": "M. Hemalatha",
+      "role": "Non-Technical Club Head (4th Year)",
+      "bio": "Specializes in event planning and external communications, ensuring all events run smoothly.",
+      "image": "./resources/team/hemalatha.jpg" 
+    },
+    {
+      "name": "B. Karan",
+      "role": "Non-Technical Club Head (4th Year)",
+      "bio": "Leads organizational strategy and mentorship programs for new members.",
+      "image": "./resources/team/karan.jpg"
+    },
+    {
+      "name": "Ankitha",
+      "role": "Non-Technical Club Head (3rd Year)",
+      "bio": "Focuses on developing soft skills workshops and public speaking initiatives.",
+      "image": "./resources/team/ankitha.jpg"
+    },
+    {
+      "name": "D. Ranitha",
+      "role": "Coordinator - Logistics",
+      "bio": "Manages all equipment, venue booking, and on-site coordination for events.",
+      "image": "./resources/team/ranitha.jpg"
+    },
+    {
+      "name": "Sasi Kiran",
+      "role": "Coordinator - Public Relations",
+      "bio": "Handles outreach, guest speaker coordination, and external club representation.",
+      "image": "./resources/team/sasikiran.jpg"
+    }
+  ],
+  "roles": [
+    {
+      "title": "Event Manager",
+      "description": "Oversees the planning, organization, and execution of all workshops and major club events.",
+      "responsibilities": [
+        "Develop comprehensive event timelines and budgets.",
+        "Manage vendor and venue contracts.",
+        "Lead event debriefs and performance analysis."
+      ]
+    },
+    {
+      "title": "Soft Skills Trainer",
+      "description": "Designs and conducts sessions focused on leadership, teamwork, and professional conduct.",
+      "responsibilities": [
+        "Create interactive training modules (e.g., mock interviews, group discussions).",
+        "Evaluate member progress in communication skills.",
+        "Facilitate constructive feedback sessions."
+      ]
+    },
+    {
+      "title": "Public Relations Lead",
+      "description": "Manages the club's image, external communications, and media partnerships.",
+      "responsibilities": [
+        "Draft press releases and official statements.",
+        "Maintain relationships with college administration and external partners.",
+        "Coordinate guest speaker invitations."
+      ]
+    },
+    {
+      "title": "Volunteer Coordinator",
+      "description": "Recruits, trains, and manages the pool of student volunteers for large-scale events.",
+      "responsibilities": [
+        "Schedule volunteer shifts and responsibilities.",
+        "Provide clear instructions and support to the volunteer team.",
+        "Ensure all volunteers are aware of event goals."
+      ]
+    }
+  ]
+}
