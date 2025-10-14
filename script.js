@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. Fetch Roles Data
     function loadRolesData() {
         // IMPORTANT: Ensure your roles.json is in a 'data/' folder relative to this script
-        fetch('./data/roles.json') 
+        fetch('./data/team.json') 
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
