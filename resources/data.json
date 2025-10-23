@@ -1,0 +1,197 @@
+{
+  "team": {
+    "heads": [
+      {
+        "name": "E. Deepika",
+        "role": "Non-Technical Lead (4B)",
+        "bio": "Specializes in large-scale event logistics, audience engagement, and sponsorship coordination.",
+        "image": "./resources/members/deepika_e.jpg",
+        "social": {
+          "instagram": "https://www.instagram.com/[deepika_insta]",
+          "github": "",
+          "linkedin": "https://www.linkedin.com/in/edeepika/"
+        }
+      },
+      {
+        "name": "G. Akshitha",
+        "role": "Non-Technical Lead (3C)",
+        "bio": "Focuses on soft skill training, public speaking events, and mentorship of the organizing team.",
+        "image": "./resources/members/akshitha_g.jpg",
+        "social": {
+          "instagram": "https://www.instagram.com/[akshitha_insta]",
+          "github": "",
+          "linkedin": "https://www.linkedin.com/in/gakshitha/"
+        }
+      }
+    ],
+    "coordinators": [
+      {
+        "name": "Nikhil",
+        "role": "Coordinator - Public Relations (4B)",
+        "bio": "Manages external communications, guest relations, and club reputation management.",
+        "image": "./resources/members/nikhil.jpg",
+        "social": { "github": "", "linkedin": "https://www.linkedin.com/in/nikhil-pr" }
+      },
+      {
+        "name": "Deekshitha",
+        "role": "Coordinator - Events (3A)",
+        "bio": "Coordinates venue preparation, event flow, and scheduling for all non-technical competitions.",
+        "image": "./resources/gallery/Deekshitha Chikati.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Sowmya",
+        "role": "Coordinator - Logistics (3A)",
+        "bio": "Handles equipment inventory, volunteer deployment, and on-site support.",
+        "image": "./resources/gallery/sowmya.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Hema",
+        "role": "Coordinator - Soft Skills (3A)",
+        "bio": "Designs and leads training workshops focused on effective communication and professional development.",
+        "image": "./resources/gallery/Hema reddy.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+     {
+        "name": "Khyathi",
+        "role": "Organizing Member (3A)",
+        "bio": "Assists with PR activities and external club representation.",
+        "image": "./resources/members/khyathi.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Pallavi",
+        "role": "Organizing Member (3A)",
+        "bio": "Focuses on developing training modules for junior members.",
+        "image": "./resources/members/pallavi.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Chandrakala",
+        "role": "Organizing Member (3B)",
+        "bio": "Key member of the finance and budgetary management team.",
+        "image": "./resources/members/chandrakala.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Subhash",
+        "role": "Organizing Member (3C)",
+        "bio": "Contributor to public speaking workshops and mentorship.",
+        "image": "./resources/members/subhash.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Anmol",
+        "role": "Organizing Member (3C)",
+        "bio": "Assists with interdepartmental coordination and event scheduling.",
+        "image": "./resources/members/anmol.jpg",
+        "social": { "github": "", "linkedin": "" }
+      }
+    ],
+    "members": [
+      {
+        "name": "Rayan",
+        "role": "Organizing Member (2A)",
+        "bio": "Actively contributes to stage setup and event decoration team.",
+        "image": "./resources/members/rayan.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Niharika",
+        "role": "Organizing Member (2A)",
+        "bio": "Focusing on learning public speaking and audience management.",
+        "image": "./resources/members/niharika.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Gretchen",
+        "role": "Organizing Member (2A)",
+        "bio": "A dedicated member of the hospitality and welcome committee.",
+        "image": "./resources/members/gretchen.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Triveni",
+        "role": "Organizing Member (2B)",
+        "bio": "Assists with registration desks and participant coordination.",
+        "image": "./resources/members/triveni.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Virat",
+        "role": "Organizing Member (2B)",
+        "bio": "Contributor to idea generation and brainstorming sessions for new events.",
+        "image": "./resources/members/virat.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Sameeksha",
+        "role": "Organizing Member (2C)",
+        "bio": "In charge of managing smaller workshop groups and internal communications.",
+        "image": "./resources/members/sameeksha.jpg",
+        "social": { "github": "", "linkedin": "" }
+      }
+    
+    ]
+},
+  "roles": [
+    {
+      "title": "Event Planning & Execution",
+      "icon": "fas fa-sitemap",
+      "responsibilities": [
+        "End-to-End Management: Oversee budgeting, scheduling, and venue setup for all non-technical events.",
+        "Stakeholder Coordination: Act as liaison between faculty, speakers, and participants.",
+        "Risk Assessment: Plan contingencies for technical or logistical issues.",
+        "Post-Event Analysis: Gather feedback and prepare final reports."
+      ],
+      "color": "text-indigo-400"
+    },
+    {
+      "title": "Public Relations (PR)",
+      "icon": "fas fa-bullhorn",
+      "responsibilities": [
+        "External Communication: Draft and send press releases and media advisories.",
+        "Brand Management: Maintain the club’s professional image and manage external inquiries.",
+        "Guest Relations: Coordinate travel and hospitality for external judges and speakers."
+      ],
+      "color": "text-purple-400"
+    },
+    {
+      "title": "Soft Skills & Development",
+      "icon": "fas fa-handshake",
+      "responsibilities": [
+        "Workshop Design: Create content for sessions on communication, leadership, and negotiation.",
+        "Facilitation: Lead mock interviews, group discussions, and team-building exercises.",
+        "Mentorship: Provide individualized coaching on presentation skills."
+      ],
+      "color": "text-pink-400"
+    }
+  ],
+  "gallery": [
+    
+    {
+        "title": "VERBO FIESTA - Verbal Arena",
+        "description": "A thrilling showdown testing public speaking, debating, and creative communication skills.",
+        "image": "https://plexusclub.github.io/events/images/verbofita.png",
+        "type": "Event", 
+        "date": "18 March 2025",
+        "link": "https://forms.gle/FiNoRCpvEPfkpaSG8",
+        "fullDetails": { 
+             "venue": "Seminar Hall, Main Block: Room 316, MRCE",
+             "timings": "10:00 AM - 12:40 PM",
+             "coordinatedBy": "PLEXUS - Non-Technical Club",
+             "registrationFee": "₹50-₹150",
+             "status": "ended",
+             "description": [
+                { "type": "title", "content": "VERBO FIESTA - An Exciting Verbal Arena" },
+                { "type": "paragraph", "content": "VERBO FIESTA is a thrilling verbal showdown where participants battle it out in a series of events aimed at testing their public speaking, debating, and creative thinking skills." },
+                { "type": "subtitle", "content": "Event Blueprint" },
+                { "type": "bulletpoints", "items": ["Team-based competitions", "Progressive rounds of increasing difficulty", "Challenges testing debate, creativity, and quick thinking"] },
+                { "type": "subtitle", "content": "Prizes & Rewards" },
+                { "type": "bulletpoints", "items": ["Certificates and Cash Prizes for top teams.", "Participation certificates for all."] }
+             ]
+        }
+    }
+  ]
+}
