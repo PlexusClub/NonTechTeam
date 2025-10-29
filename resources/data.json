@@ -57,14 +57,14 @@
         "name": "Khyathi",
         "role": "Organizing Member (3A)",
         "bio": "Assists with PR activities and external club representation.",
-        "image": "./resources/members/khyathi.jpg",
+        "image": "./resources/gallery/khyathi.jpg",
         "social": { "github": "", "linkedin": "" }
       },
       {
         "name": "Pallavi",
         "role": "Organizing Member (3A)",
         "bio": "Focuses on developing training modules for junior members.",
-        "image": "./resources/members/pallavi.jpg",
+        "image": "./resources/gallery/pallavi.jpg",
         "social": { "github": "", "linkedin": "" }
       },
       {
